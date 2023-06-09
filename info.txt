@@ -1,1 +1,2 @@
-Learning git first time. Tomorrow is our second seesion.
+Learning git first time. Tomorrow is our second seesion. 
+Today learn more about new git commads
